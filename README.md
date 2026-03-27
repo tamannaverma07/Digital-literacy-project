@@ -84,7 +84,13 @@ These platforms help in building a strong professional digital identity.
 - Awareness about cybercrime and prevention
   ## Folder structure
 
-
+```bash
+├── task-1-presentation/    # Digital Literacy Infographic
+├── task-2-portfolio/       # Profile screenshots & README
+├── task-3-platforms/       # Coding badges & Google Form proofs
+├── task-4-email-etiquette/ # Email drafts & Safety checklist
+└── task-5-cybercrime/      # Phishing case study & Prevention guide
+```
 
 ##  Tools & Platforms Used
 
