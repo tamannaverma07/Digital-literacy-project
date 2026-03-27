@@ -83,9 +83,9 @@ These platforms help in building a strong professional digital identity.
 - Professional email communication  
 - Awareness about cybercrime and prevention
   ## Folder structure
-├── README.md
-├── report/
-│   └── Project_Report.pdf / .docx
+├── README.md<br>
+├── report/<br>
+│   └── Project_Report.pdf / .docx<br>
 ├── task-1-presentation/    # Digital literacy infographic
 ├── task-2-portfolio/       #Profile screenshots amd README
 ├── task-3-platforms/       #coding badges and google form proofs
