@@ -104,7 +104,7 @@ These platforms help in building a strong professional digital identity.
 # Professional Profiles
 
 - **GitHub:** https://github.com/tamannaverma07  
-- **LinkedIn:** https://linkedin.com/in/tamanna-verma-8932023b9/  
+- **LinkedIn:** https://www.linkedin.com/in/tamanna-verma-9a65a83ba/  
 - **Kaggle:** https://www.kaggle.com/tamannaverma07  
 - **HackerRank:** https://www.hackerrank.com/profile/tamanna_25bet101  
 - **Google Form (Task 3 Quiz):** https://docs.google.com/forms/d/e/1FAIpQLSctYpIS3I7_PJFqdInZxZ4ibrGd_7vdfyHlRjeIlEz6btopNQ/viewform?usp=publish-editor  
