@@ -17,9 +17,6 @@ This project was completed as part of the Digital Literacy course. The aim of th
 
 As a Student Digital Ambassador, I completed five tasks that focus on practical digital skills and responsible usage of technology. All tasks are organized in this repository along with relevant screenshots, documents, and reflections.
 
-
-## 📂 Repository Structure
-
 # Task Summaries
 
 ###  Task 1: Digital Literacy Infographic
@@ -82,7 +79,7 @@ These platforms help in building a strong professional digital identity.
 - Safe and responsible internet practices  
 - Professional email communication  
 - Awareness about cybercrime and prevention
-  ## Folder structure
+  ## Repository structure
 
 ```bash
 ├── task-1-presentation/    # Digital Literacy Infographic
